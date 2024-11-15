@@ -24,7 +24,8 @@ The Interactive Calculator is a responsive web application that simulates the fu
    ```bash
    git clone https://github.com/your-repository-name.git
 2. Navigate to the project directory:
-      cd your-repository-name
+   ```bash
+   cd your-repository-name
 3. Open the index.html file in any modern web browser.
 
 How to Use
