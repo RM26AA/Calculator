@@ -28,18 +28,18 @@ The Interactive Calculator is a responsive web application that simulates the fu
    cd your-repository-name
 3. Open the index.html file in any modern web browser.
 
-How to Use
-Input numbers and select operations using the on-screen buttons.
-Use AC to reset the calculator, +/- to toggle the sign of the number, and % for percentage calculations.
-Press = to compute the result.
+## How to Use
+- Input numbers and select operations using the on-screen buttons.
+- Use AC to reset the calculator, +/- to toggle the sign of the number, and % for percentage calculations.
+- Press = to compute the result.
 
-License:
+## License:
 This project is open-source and available under the MIT License.
 
-Contributing:
+## Contributing:
 Contributions are welcome! Please fork the repository and create a pull request with your enhancements.
 
-Author:
+## Author:
 Romeo Maunick - A passionate developer exploring the intersection of creativity and technology.
 
 
